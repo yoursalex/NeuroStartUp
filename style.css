@@ -1,0 +1,40 @@
+* {
+margin: 10;
+padding: 0;
+background-color: azure;
+}
+
+h1 {
+    margin left: auto;
+    color: blue;
+    font-family: sans-serif;
+    font-size: 200%;
+}
+
+h2 {
+    margin-left: 120px;
+    font-family: fantasy;
+    padding: 10px 10px 10px 10px
+    font-size: 10px;
+}
+
+.info {
+    font-weight: 100;
+    font-family: sans-serif;
+    font-size: 20px;
+    
+}
+
+
+ul {
+    padding-left: 40px; 
+    margin-top: 1em; 
+    margin-bottom: 1em;
+}
+
+li {
+    list-style: circle, 120px;
+    margin-left: 20;
+}
+
+
